@@ -1,0 +1,3 @@
+include ':timecounter'
+include ':app'
+rootProject.name='Stopwatch Recorder'
